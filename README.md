@@ -61,6 +61,25 @@ bash .\scripts\download_models.sh
 
 ```
 
+--> Create a config.json file :
+```bash
+{
+    "CAI_data": [
+        {
+            "token": "",
+            "character": ""
+        }
+    ],
+    "EL_data": [
+        {
+            "EL_key":  "",
+            "voice": ""
+        }
+
+    ]
+}
+```
+
 --> Access config.json to add ElevenLabs and CharacterAI keys :
 
 Obtaining an ElevenLabs key:
