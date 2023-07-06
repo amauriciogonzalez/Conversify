@@ -1,0 +1,6 @@
+config_info.txt
+config.json
+audio.wav
+checkpoints/
+gfpgan/
+results/
