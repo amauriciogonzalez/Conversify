@@ -121,12 +121,15 @@ python app.py --ttt cai --tts el
 
 ### Demo
 
-https://github.com/amauriciogonzalez/Conversify/assets/88101535/55019afe-ff35-4904-9f77-e9a53d7b35a5
+
+
+https://github.com/amauriciogonzalez/Conversify/assets/88101535/7fdc598b-1146-4acb-b732-fb01cea5c8e4
+
 
 
 ### Result
 
-https://github.com/amauriciogonzalez/Conversify/assets/88101535/ddd54aef-39fc-43c1-b1b0-382f3041c188
+
 
 
 
